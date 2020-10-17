@@ -1,7 +1,7 @@
 
 @mixin thumb()
     $bg1: linear-gradient(var(--p),var(--p)) 70% 50% / 20% 5% no-repeat
-    $bg2: linear-gradient(var(--l2),var(--l2)) 70% 50% / 20% 15% no-repeat
+    $bg2: linear-gradient(var(--20),var(--l2)) 70% 50% / 20% 15% no-repeat
     $bg3: radial-gradient(100% 100% at 50% 50%,var(--pT) 14%,var(--p) 15% 19%,var(--pT) 20%)
     border: 0
     background: $bg1, $bg2, $bg3, var(--l2)
