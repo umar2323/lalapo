@@ -1,4 +1,4 @@
-# lalapo
+
 @mixin thumb()
     $bg1: linear-gradient(var(--p),var(--p)) 70% 50% / 20% 5% no-repeat
     $bg2: linear-gradient(var(--l2),var(--l2)) 70% 50% / 20% 15% no-repeat
